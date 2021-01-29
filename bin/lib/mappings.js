@@ -113,7 +113,7 @@ module.exports = {
 				}
 			},
 			// need a different handling for ios and android
-			// IsSecure
+			IsSecure: true,
 			// AutocapitalizationType
 			// AutocorrectionType
 			key:     commonMappings.key,
